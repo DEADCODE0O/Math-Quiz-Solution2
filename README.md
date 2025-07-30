@@ -48,6 +48,14 @@ You Passed the Quiz!
 Do you want to play again? (y/n):
 
 
+<img width="959" height="483" alt="image" src="https://github.com/user-attachments/assets/a6203c5f-538f-410e-aa72-3a75642bc238" />
+
+
+
+<img width="958" height="477" alt="image" src="https://github.com/user-attachments/assets/fc268ea1-6b69-490a-9d64-46d724076217" />
+
+
+
 ---
 
 ## 🛠️ Technologies Used
