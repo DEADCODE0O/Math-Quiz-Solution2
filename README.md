@@ -87,7 +87,7 @@ Do you want to play again? (y/n):
 
 ## 👨‍💻 Author
 
-**Ahmed (DEADCODE)**  
+**Ahmed Al-Wazir**  
 📬 [GitHub Profile](https://github.com/DEADCODE0O)
 
 ---
